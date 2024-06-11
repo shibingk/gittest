@@ -1,2 +1,1 @@
-base commit with master and feature and content is in master and is to be
-changed..
+from base merge to the new feature merge
