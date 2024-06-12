@@ -1,1 +1,3 @@
 7. seventh commit, recursive merge in feature
+
+ cloned project push again to github
